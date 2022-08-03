@@ -3,7 +3,7 @@
 ## Building the module
 
 First, create and activate a virtual environment to prevent versioning conflicts.
-```bash
+```bashmhfhsgdkaf
 virtualenv spot_venv
 source spot_venv/bin/activate
 ```
