@@ -1,7 +1,7 @@
 import numpy as np
 import unittest
 
-from src.dyme_module.transformers import ExampleTransformer
+from src.spotify_module.transformers import ExampleTransformer
 
 class TestExample(unittest.TestCase):
     def test_example(self):
